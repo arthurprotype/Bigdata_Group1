@@ -1,4 +1,5 @@
-# BFinal Project (Group1)
+# BI475 Final Project (Group1)
+Group member: Jia Chenye, Yueting Wu, Jingcheng Shi, Lefan Xie, Dekun Wu
 Epilepsy EEG signal classification through deep learning algorithm
 
 epilepsy.ipynb contains the full code of our project and the network structures we have tried, including BiLSTM, LSTM, GRU, ANN and CNN. 
