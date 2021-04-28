@@ -5,4 +5,4 @@ epilepsy.ipynb contains the full code of our project and the network structures 
 
 You can run our code in the enviroment of Python 3.
 
-dataset contains the raw data we downloaded from the descirption document of project, including 5 sets of F, N, O, S and Z.
+EEG_data contains the raw data we downloaded from the descirption document of project, including 5 sets of F, N, O, S and Z.
