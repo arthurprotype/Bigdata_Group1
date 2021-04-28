@@ -1,4 +1,4 @@
-# Final Project(Group1)
+# Final Project (Group1)
 Epilepsy EEG signal classification through deep learning algorithm
 
 epilepsy.ipynb contains the full code of our project and the network structures we have tried, including BiLSTM, LSTM, GRU, ANN and CNN. 
